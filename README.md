@@ -1,11 +1,11 @@
 # 📊 Customer Churn Analysis  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project aims to analyze customer churn in a telecommunications company using data-driven insights. The dataset includes **7,043 customer records** with demographic details, service usage patterns, and payment methods.  
 
 Through data visualization and statistical analysis, we identify key factors influencing customer attrition and propose actionable strategies to improve retention.  
 
-## 📂 Dataset Information  
+##  Dataset Information  
 The dataset consists of **21 columns** and covers the following key attributes:  
 - **Customer Demographics** (Gender, Senior Citizen, Partner, Dependents)  
 - **Account Information** (Tenure, Contract Type, Billing & Payment Method)  
